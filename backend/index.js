@@ -48,13 +48,13 @@ io.on("connection", (socket) => {
     onlineUsers.push({ userId, socketId: socket.id });
   }
 
-  // ✅ send only userIds
+  // send only userIds
   io.emit("getOnlineUsers", onlineUsers.map(u => u.userId));
 
   socket.on("disconnect", () => {
     console.log("User disconnected:", socket.id);
     onlineUsers = onlineUsers.filter(u => u.socketId !== socket.id);
-    // ✅ send only userIds
+    //  send only userIds
     io.emit("getOnlineUsers", onlineUsers.map(u => u.userId));
   });
 });
