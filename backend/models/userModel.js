@@ -19,7 +19,7 @@ const userSchema = new mongoose.Schema({// Define the schema for the User model
     },
     gender:{
         type: String,
-        enum: ["male", "female", "other"],
+        enum: ["male", "female"],
         required: true
     }
 },{timestamps:true});//time pta chl skega ki user kab create hua aur kab update hua
