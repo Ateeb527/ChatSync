@@ -9,6 +9,6 @@ import mongoose from "mongoose";
     console.log("DB ERROR:", error);
   }
 };
-console.log("URI:", process.env.MONGO_URI);
+//console.log("URI:", process.env.MONGO_URI);
 
 export default connectDB;
