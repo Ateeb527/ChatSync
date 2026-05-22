@@ -28,6 +28,10 @@ Real-time chat application built using the MERN stack and Socket.io for instant 
 <img width="1911" height="896" alt="Screenshot 2026-04-03 163356" src="https://github.com/user-attachments/assets/f1ccd657-fb2b-46e7-9db4-aa253db70390" />
 <img width="1747" height="826" alt="Screenshot 2026-04-03 163044" src="https://github.com/user-attachments/assets/150dc58d-2e1d-40e9-9e38-9f23ca6081b8" />
 <img width="1897" height="918" alt="Screenshot 2026-04-03 163549" src="https://github.com/user-attachments/assets/21120302-5bcb-4fa0-a6f5-e02064e8c046" />
+<img width="1919" height="807" alt="Screenshot 2026-04-03 050046" src="https://github.com/user-attachments/assets/fdb3258c-4799-40b8-b0ee-cd1986097f44" />
+<img width="1878" height="913" alt="Screenshot 2026-04-03 050356" src="https://github.com/user-attachments/assets/40e036ee-71c5-4935-a446-3b8fa3eda1dd" />
+
+
 
 
 ## Author
